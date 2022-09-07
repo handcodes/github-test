@@ -1,5 +1,11 @@
 # test1
 
+## 1.1.1
+
+### Patch Changes
+
+- [`684484e`](https://github.com/handcodes/github-test/commit/684484e7f3a9bbc1577b8ab98079765082a0fb41) Thanks [@handcodes](https://github.com/handcodes)! - chore: 测试 PR
+
 ## 1.1.0
 
 ### Minor Changes
