@@ -1,5 +1,11 @@
 # test1
 
+## 1.1.2
+
+### Patch Changes
+
+- [`b86bad8`](https://github.com/handcodes/github-test/commit/b86bad84c46d9809027302b38cb03c2f4502f0ad) Thanks [@handcodes](https://github.com/handcodes)! - chore: 引入 changeset
+
 ## 1.1.1
 
 ### Patch Changes
